@@ -12,6 +12,8 @@ cryptographic, not a promise.
 
 **[Run a real governed flow and verify its proof in your browser → play.infrix.opendlt.org](https://play.infrix.opendlt.org)**
 
+How is this different from Ethereum/Solana? **[The same escrow, two ways →](https://infrix.opendlt.org/why-infrix)**
+
 ## Prove it to yourself in 30 seconds
 
 ```sh
